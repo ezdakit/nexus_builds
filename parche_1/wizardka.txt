@@ -1,5 +1,5 @@
 name="INSTALAR MENUS NEXUS"
-url="https://www.dropbox.com/s/35fk4dmf8vhd7xh/20201111addons.zip?dl=1" 
+url="https://github.com/ezdakit/nexus_builds/raw/main/parche_1/parche_1.zip" 
 img="http://miservidor.com/icono.png"
 fanart="http://miservidor.com/fondo.jpg"
 description="PARA ACTUALIZAR LOS MENUS DE INICIO"
