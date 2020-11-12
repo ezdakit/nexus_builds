@@ -1,5 +1,0 @@
-name="NEXUS-BASE"
-url="https://www.dropbox.com/s/h10znug3wkw7vvx/2020-11-10-_nvidia_completa.zip?dl=1" 
-img="http://miservidor.com/icono.png"
-fanart="http://miservidor.com/fondo.jpg"
-description="Base de build nexus"

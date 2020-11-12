@@ -1,0 +1,5 @@
+name="NEXUS-SKIN_MENUS"
+url="https://www.dropbox.com/s/md1xbiyz1buwzal/20201111skin.zip?dl=1" 
+img="http://miservidor.com/icono.png"
+fanart="http://miservidor.com/fondo.jpg"
+description=""
