@@ -1,5 +1,5 @@
-name="NEXUS-PACK_ADDONS"
+name="INSTALAR NEXUS_MENUS"
 url="https://www.dropbox.com/s/35fk4dmf8vhd7xh/20201111addons.zip?dl=1" 
 img="http://miservidor.com/icono.png"
 fanart="http://miservidor.com/fondo.jpg"
-description="NEXUS-PACK_ADDONS"
+description="PARA ACTUALIZAR LOS MENUS DE INICIO"
