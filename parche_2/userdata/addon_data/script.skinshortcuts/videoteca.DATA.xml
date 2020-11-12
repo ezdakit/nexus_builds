@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>titulos</defaultID>
+		<label>BALANDRO MIS SERIES</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>special://skin/extras/icons/files.png</icon>
+		<thumb>special://skin/extras/icons/tv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdF9zZXJpZXMiLCAKICAgICJjYXRlZ29yeSI6ICJNaSB2aWRlb3RlY2EiLCAKICAgICJjaGFubmVsIjogInRyYWNraW5nIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFVzZXJzXFxXaW50dGVyc1xcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXHRoZW1lc1xcZGVmYXVsdFxcdHYucG5nIiwgCiAgICAidGl0bGUiOiAiU2VyaWVzICgzKSIKfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>titulos</defaultID>
+		<label>BALANDRO MIS PELIS</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>special://skin/extras/icons/files.png</icon>
+		<thumb>special://skin/extras/icons/director.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdF9wZWxpcyIsIAogICAgImNhdGVnb3J5IjogIk1pIHZpZGVvdGVjYSIsIAogICAgImNoYW5uZWwiOiAidHJhY2tpbmciLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInRodW1ibmFpbCI6ICJDOlxcVXNlcnNcXFdpbnR0ZXJzXFxBcHBEYXRhXFxSb2FtaW5nXFxLb2RpXFxhZGRvbnNcXHBsdWdpbi52aWRlby5iYWxhbmRyb1xccmVzb3VyY2VzXFxtZWRpYVxcdGhlbWVzXFxkZWZhdWx0XFxjbGFwYm9hcmQucG5nIiwgCiAgICAidGl0bGUiOiAiUGVsw61jdWxhcyAoMCkiCn0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>ACTUALIZAR</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/update.png</thumb>
+		<action>RunPlugin(plugin://plugin.video.balandro/?channel=actions&amp;action=comprobar_nuevos_episodios)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>FAVS PALANTIR</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/favourite.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ21vdmllcycsICdvcmRlbic6IDEsICdsYWJlbCc6IHUnW0NPTE9SIGdvbGRdRmF2b3JpdG9zWy9DT0xPUl0nLCAnc3FsJzogdSdzZWxlY3QgbGFiZWwsYWN0aW9uLGljb24sc3FsLCBmYW5hcnQgZnJvbSBtZW51cyB3aGVyZSBtZW51X2lkPTkwICBPUkRFUiBieSBpdGVtX2lkIGFzYycsICdmYW5hcnQnOiAnQzpcXFVzZXJzXFxIUFxcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8ucGFsYW50aXIyXFxmYW5hcnQuZ2lmJywgJ2NvbnRleHRNZW51JzogWyh1J01hcmNhciBjb21vIHZpc3RvJywgJ1hCTUMuUnVuUGx1Z2luKHBsdWdpbjovL3BsdWdpbi52aWRlby5wYWxhbnRpcjIvP2V5ZHpaV0Z6YjI1ZmFXUW5PaUFuSnl3Z0oyTnZiblJsYm5Rbk9pQW5iVzkyYVdWekp5d2dKM1J0WkdJbk9pQW5KeXdnSjJWd2FYTnZaR1VuT2lBbkp5d2dKMkZqZEdsdmJpYzZJQ2R2YVc4d1QwOHdUMDlQVHlkOSknKV0sICdpY29uJzogdSdodHRwczovL2dpdGh1Yi5jb20vUGFsYW50aXJhZGRvbi9QYWxhbnRpci9yYXcvbWFzdGVyL21lZGlhL2Fic3RyYWN0L2Zhdi5wbmcnLCAnYWN0aW9uJzogJ29pT29vMDAnLCAncGFnZSc6IDB9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>FAVS CRISTAL</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/favourite.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cristalazul/?url=url&amp;mode=4&amp;name=Favorites&amp;fanart=C%3A%5CUsers%5CHP%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.cristalazul%5Cfanart.jpg",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>1036</defaultID>
+		<label>FAVS KODI</label>
+		<label2>Ítem de menú Común</label2>
+		<icon>Favourites.png</icon>
+		<thumb>special://skin/extras/icons/favourite.png</thumb>
+		<action>ActivateWindow(Favourites)</action>
+	</shortcut>
+</shortcuts>

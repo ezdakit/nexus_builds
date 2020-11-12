@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?><shortcuts>
+	<shortcut>
+		<defaultID>plugin.video.dplay_dmax_dkiss</defaultID>
+		<label>DPLAY</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-plugin.video.dplay_dmax_dkiss.png</thumb>
+		<action>ActivateWindow(Videos,&quot;plugin://plugin.video.dplay_dmax_dkiss&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.atresplayer</defaultID>
+		<label>ATRESPLAYER</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-plugin.video.atresplayer.png</thumb>
+		<action>ActivateWindow(Videos,&quot;plugin://plugin.video.atresplayer&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.mitele</defaultID>
+		<label>MITELE</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-plugin.video.mitele.png</thumb>
+		<action>ActivateWindow(Videos,&quot;plugin://plugin.video.mitele&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.rtve</defaultID>
+		<label>RTVE</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-plugin.video.rtve.png</thumb>
+		<action>ActivateWindow(Videos,&quot;plugin://plugin.video.rtve&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.clan</defaultID>
+		<label>CLAN</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-plugin.video.clan.gif</thumb>
+		<action>ActivateWindow(Videos,&quot;plugin://plugin.video.clan&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.tv3alacarta</defaultID>
+		<label>TV3</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-plugin.video.tv3alacarta.png</thumb>
+		<action>ActivateWindow(Videos,&quot;plugin://plugin.video.tv3alacarta&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.super3</defaultID>
+		<label>SUPER 3</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-plugin.video.super3.png</thumb>
+		<action>ActivateWindow(Videos,&quot;plugin://plugin.video.super3&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.eitbalacarta</defaultID>
+		<label>EITB</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-plugin.video.eitbalacarta.png</thumb>
+		<action>ActivateWindow(Videos,&quot;plugin://plugin.video.eitbalacarta&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.tvg</defaultID>
+		<label>Televisión de Galicia</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-plugin.video.tvg.png</thumb>
+		<action>ActivateWindow(Videos,&quot;plugin://plugin.video.tvg&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.canalsur</defaultID>
+		<label>CANAL SUR</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-plugin.video.canalsur.png</thumb>
+		<action>ActivateWindow(Videos,&quot;plugin://plugin.video.canalsur&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.apunt</defaultID>
+		<label>À Punt</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-plugin.video.apunt.png</thumb>
+		<action>ActivateWindow(Videos,&quot;plugin://plugin.video.apunt&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.telemadrid</defaultID>
+		<label>TeleMadrid</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-plugin.video.telemadrid.png</thumb>
+		<action>ActivateWindow(Videos,&quot;plugin://plugin.video.telemadrid&quot;,return)</action>
+	</shortcut>
+</shortcuts>

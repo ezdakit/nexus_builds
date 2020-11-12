@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><shortcuts>
+	<shortcut>
+		<defaultID>eltiempo</defaultID>
+		<label>EL TIEMPO</label>
+		<label2>Widget</label2>
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb/>
+		<action>Weather</action>
+	</shortcut>
+	<shortcut>
+		<defaultID/>
+		<label>APPS ANDROID</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb/>
+		<action>noop</action>
+	</shortcut>
+</shortcuts>

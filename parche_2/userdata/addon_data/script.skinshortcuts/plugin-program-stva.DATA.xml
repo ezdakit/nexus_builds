@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?><shortcuts>
+	<shortcut>
+		<defaultID>1037</defaultID>
+		<label>ADDONS DE VIDEO</label>
+		<label2>Vídeos</label2>
+		<icon>special://skin/extras/icons/video-addons.png</icon>
+		<thumb/>
+		<action>ActivateWindow(Videos,Addons,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>programs</defaultID>
+		<label>ADDONS DE PROGRAMA</label>
+		<label2>Programas</label2>
+		<icon>special://skin/extras/icons/addons.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-programs.png</thumb>
+		<action>ActivateWindow(Programs,Addons,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID/>
+		<label>HERRAMIENTAS CRISTAL</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-HERRAMIENTAS CRISTAL.png</thumb>
+		<action>ActivateWindow(Videos,&quot;plugin://plugin.video.cristalazul/?url=%24doregex%5Bfinal%5D&amp;mode=1&amp;name=%5BCOLOR+white%5DHERRAMIENTAS%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2Fi.imgur.com%2Fbg6n3AV.png&amp;regexs=%7Bu%27final%27%3A%20%7B%27expres%27%3A%20u%22%23%24pyFunction%5Cndef%20GetLSProData%28page_data%2CCookie_Jar%2Cm%29%3A%5Cn%20import%20xbmc%2C%20xbmcaddon%2C%20xbmcgui%5Cn%20if%20%27.%27%20in%20%27%24doregex%5Bincompatible%5D%27%3A%5Cn%20%20%20%20%20dialog%20%3D%20xbmcgui.Dialog%28%29%5Cn%20%20%20%20%20dialog.textviewer%28%27%5BB%5D%5BCOLOR%20yellow%5DAVISO%20IMPORTANTE%20PARA%20TODOS%20LOS%20USUARIOS%21%5B/COLOR%5D%5B/B%5D%27%2C%20%27%5BB%5D%5BLOWERCASE%5D%5BCAPITALIZE%5D%5BCOLOR%20white%5DDespues%20de%20comprobar%20que%20el%20Addon%20%5BCOLOR%20gold%5DArmaguedon%20%5C%5Cn%5BCOLOR%20white%5Dsigue%20copiando%20el%20trabajo%20de%20otros%20addons%2C%20%5BCOLOR%20gold%5DCristal%20Azul%20%20y%20Tvchopo%20%5BCOLOR%20white%5Dente%20otros%2C%20%5C%5Cnnos%20vemos%20en%20la%20obligacion%20%20de%20hacer%20nuestros%20addons%20INCOMPATIBLES%20con%20el%20suyo.%20%5C%5CnEsto%20quiere%20decir%20que%20Armageddon%20%20no%20puede%20convivir%20en%20un%20mismo%20%5C%5Cnkodi%20ni%20con%20Cristal%20azul%20ni%20Tvchopo%20%5C%5CnSentimos%20las%20molestias%20que%20esto%20pueda%20ocasionar%20a%20los%20usuarios%2C%5C%5Cnpero%20esto%20ya%20es%20inadmisible%2C%20son%20muchas%20horas%20invertidas%20para%20que%20alguien%20llegue%20%2C%5C%5Cncambie%202%20fotos%20y%20se%20apropie%20del%20trabajo%20de%20los%20demas.%5C%5CnCada%20uno%20que%20decida%20que%20usar%20%2Csois%20libres%5C%5Cnpero%20armageddon%20sera%20incompatible%20con%20los%20otros%202.%5C%5CnPara%20no%20tener%20conflicto%20Nos%20posicionamos%20sobre%20el%20%20addon%5C%5Cnque%20queramos%20desinstalar%20Pulsacion%20larga%20sobre%20el%5C%5CnInformacion%20Desinstalar%5C%5CnSi%20elegiis%20Armageddon%20desintalad%20los%20otros%202%5C%5CnSi%20elegiis%20Tvchopo%20o%20Cristal%20Azul%20desinstalad%20armageddon%5B/COLOR%5D%5B/CAPITALIZE%5D%5B/LOWERCASE%5D%5B/B%5D%20%27%29%5Cn%20else%3A%5Cn%20%20%20%20%20return%20%27%24doregex%5Bcomecristal%5D%27%5Cn%22%2C%20%27name%27%3A%20u%27final%27%2C%20%27page%27%3A%20None%7D%2C%20u%27comecristal%27%3A%20%7B%27expres%27%3A%20u%27%23%24pyFunction%5Cndef%20GetLSProData%28page_data%2CCookie_Jar%2Cm%29%3A%5Cn%20import%20xbmc%5Cn%20import%20xbmcaddon%5Cn%20addon%20%3D%20xbmcaddon.Addon%28%5C%27plugin.video.cristalazul%5C%27%29%5Cn%20Url%20%3D%20%5C%27link%5B%3A%3A4%5D%20%2B%20url%5B%3A8%5D%20%2B%20Creditos%5B62%3A%5D%20%3D%20http%3A//bit.ly/sourcecristalazul%5C%27%5Cn%20grupotelegram%20%3D%20%5C%27http%3A//t.me/addonfestaycristal%5C%27%5Cn%20Creditos%20%3D%20%5C%27el_addon_cristalazul_fue_creado_por_el_grupo_festa_para_el_disfrute_en%20familia%2C%20este_addon_es_completamente_gratuito%2Cdisfrute_de_la_seccion_de_Herramientas%5C%27%5Cn%20cristal%20%3D%20%5C%27Cristalazul_addon_para_todos_gratuita_creada_por_picapau_y_lourdes%5C%27%5Cn%20info%20%3D%20%5C%27british.true.Build.py%20%257/%5C%27%5Cn%20return%20%20grupotelegram%5B%3A7%5D%20%2B%20info%5B%3A%3A4%5D%20%2B%20cristal%5B%3A11%5D%20%2B%20Creditos%5B143%3A%5D%5Cndef%20revist_dag%28page_data%29%3A%5Cn%20%20final_url%20%3D%20%5C%27%5C%27%5Cn%20%20if%20%5C%27127.0.0.1%5C%27%20in%20page_data%3A%5Cn%20%20%20%20%20%20final_url%20%3D%20re_me%28page_data%2C%20%5C%27%26ver_t%3D%28%5B%5E%26%5D%2B%29%26%5C%27%29%20%2B%20%5C%27%20live%3Dtrue%20timeout%3D15%20playpath%3D%5C%27%20%2B%20re_me%28page_data%2C%20%5C%27%5C%5C%5C%5C%3Fy%3D%28%5Ba-zA-Z0-9-_%5C%5C%5C%5C.%40%5D%2B%29%5C%27%29%5Cn%20%5Cn%20%20if%20re_me%28page_data%2C%20%5C%27token%3D%28%5B%5E%26%5D%2B%29%26%5C%27%29%20%21%3D%20%5C%27%5C%27%3A%5Cn%20%20%20%20%20%20final_url%20%3D%20final_url%20%2B%20%5C%27%3Ftoken%3D%5C%27%20%2B%20re_me%28page_data%2C%20%5C%27token%3D%28%5B%5E%26%5D%2B%29%26%5C%27%29%5Cn%20%20elif%20re_me%28page_data%2C%20%5C%27wmsAuthSign%253D%28%5B%5E%25%26%5D%2B%29%5C%27%29%20%21%3D%20%5C%27%5C%27%3A%5Cn%20%20%20%20%20%20final_url%20%3D%20re_me%28page_data%2C%20%5C%27%26ver_t%3D%28%5B%5E%26%5D%2B%29%26%5C%27%29%20%2B%20%5C%27%3FwmsAuthSign%3D%5C%27%20%2B%20re_me%28page_data%2C%20%5C%27wmsAuthSign%253D%28%5B%5E%25%26%5D%2B%29%5C%27%29%20%2B%20%5C%27%3D%3D/mp4%3A%5C%27%20%2B%20re_me%28page_data%2C%20%5C%27%5C%5C%5C%5C%3Fy%3D%28%5B%5E%26%5D%2B%29%26%5C%27%29%5Cn%20%20else%3A%5Cn%20%20%20%20%20%20final_url%20%3D%20re_me%28page_data%2C%20%5C%27HREF%3D%22%28%5B%5E%22%5D%2B%29%22%5C%27%29%5Cn%20%5Cn%20%20if%20%5C%27dag1.asx%5C%27%20in%20final_url%3A%5Cn%20%20%20%20%20%20return%20get_dag_url%28final_url%29%5Cn%20%5Cn%20%20if%20%5C%27devinlivefs.fplive.net%5C%27%20not%20in%20final_url%3A%5Cn%20%20%20%20%20%20final_url%20%3D%20final_url.replace%28%5C%27devinlive%5C%27%2C%20%5C%27flive%5C%27%29%5Cn%20%20if%20%5C%27permlivefs.fplive.net%5C%27%20not%20in%20final_url%3A%5Cn%20%20%20%20%20%20final_url%20%3D%20final_url.replace%28%5C%27permlive%5C%27%2C%20%5C%27flive%5C%27%29%5Cn%20%20return%20%5C%27%5C%27%5Cn%27%2C%20%27name%27%3A%20u%27comecristal%27%2C%20%27page%27%3A%20None%7D%2C%20u%27incompatible%27%3A%20%7B%27expres%27%3A%20u%22%23%24pyFunction%5Cndef%20GetLSProData%28page_data%2CCookie_Jar%2Cm%29%3A%5Cn%20import%20xbmc%2C%20xbmcaddon%2C%20xbmcgui%5Cn%20f4m%20%3D%20xbmcaddon.Addon%28%27plugin.video.Armageddon%27%29%5Cn%20version%20%3D%20%20f4m.getAddonInfo%28%27version%27%29%5Cn%20return%20version%5Cn%22%2C%20%27name%27%3A%20u%27incompatible%27%2C%20%27page%27%3A%20None%7D%7D&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID/>
+		<label>BASES Y PARCHES</label>
+		<label2>Programa</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-BASES Y PARCHES.png</thumb>
+		<action>ActivateWindow(Programs,&quot;plugin://plugin.program.stva/?mode=builds&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID/>
+		<label>MANTENIMIENTO</label>
+		<label2>Programa</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-MANTENIMIENTO.png</thumb>
+		<action>ActivateWindow(Programs,&quot;plugin://plugin.program.stva/?mode=maint&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID/>
+		<label>BUFFER</label>
+		<label2>Programa</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-BUFFER.png</thumb>
+		<action>ActivateWindow(Programs,&quot;plugin://plugin.program.stva/?mode=advancedsetting&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID/>
+		<label>TEST DE VELOCIDAD</label>
+		<label2>Programa</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://profile/addon_data/script.skinshortcuts/skin.auramodstva-thumb-TEST DE VELOCIDAD.png</thumb>
+		<action>ActivateWindow(Programs,&quot;plugin://plugin.program.stva/?mode=speedtestM&quot;,return)</action>
+	</shortcut>
+</shortcuts>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>4K EN TORRENT</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/4k.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIk5ld1BjdDF%2BcGN0cmVsb2FkIiwgCiAgICAiY2hhbm5lbCI6ICJuZXdwY3QxIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJzZWFyY2hfdHlwZSI6ICJtb3ZpZSIsIAogICAgInRodW1ibmFpbCI6ICJDOlxcVXNlcnNcXEhQXFxBcHBEYXRhXFxSb2FtaW5nXFxLb2RpXFxhZGRvbnNcXHBsdWdpbi52aWRlby5iYWxhbmRyb1xccmVzb3VyY2VzXFxtZWRpYVxcY2hhbm5lbHNcXHRodW1iXFxwY3RyZWxvYWQucG5nIiwgCiAgICAidGl0bGUiOiAiUGVsw61jdWxhcyBlbiA0SyBVSERtaWNybyIsIAogICAgInVybCI6ICJodHRwczovL3BjdHJlbG9hZC5jb20vcGVsaWN1bGFzLWhkLzRrLXVoZG1pY3JvLyIKfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>NETFLIX</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/netflixpp.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X3BlbGlzIiwgCiAgICAiY2F0ZWdvcnkiOiAiUGVsaXNQbGF5IiwgCiAgICAiY2hhbm5lbCI6ICJwZWxpc3BsYXkiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInNlYXJjaF90eXBlIjogIm1vdmllIiwgCiAgICAidGh1bWJuYWlsIjogIkM6XFxVc2Vyc1xcV2ludHRlcnNcXEFwcERhdGFcXFJvYW1pbmdcXEtvZGlcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmJhbGFuZHJvXFxyZXNvdXJjZXNcXG1lZGlhXFxjaGFubmVsc1xcdGh1bWJcXHBlbGlzcGxheS5wbmciLCAKICAgICJ0aXRsZSI6ICJQZWzDrWN1bGFzIGRlIE5ldGZsaXgiLCAKICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cucGVsaXNwbGF5LnR2L3Zlci1wZWxpY3VsYXMvbmV0ZmxpeCIKfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>DISNEY+</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/disney+.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cristalazul/?url=https%3A%2F%2Fraw.githubusercontent.com%2FFESTAKIDS%2Ffestakids%2Fmain%2FDPLUS%2FMENU.PRINCIPAL.DPLUS%24%24LSProEncKey%3D+%24%24&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+darkgoldenrod%5D%2A+%5BCOLOR+white%5DDISNEY+%2B%5B%2FCOLOR%5D%5B%2FB%5D&amp;fanart=https%3A%2F%2Fi.imgur.com%2Foctb2sN.jpg",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>LISTAS</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/clipboard.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2xpc3RzIiwgCiAgICAiY2F0ZWdvcnkiOiAiTW92aWR5IiwgCiAgICAiY2hhbm5lbCI6ICJtb3ZpZHkiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInRodW1ibmFpbCI6ICJDOlxcVXNlcnNcXEFkTVxcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXGNoYW5uZWxzXFx0aHVtYlxcbW92aWR5LmpwZyIsIAogICAgInRpdGxlIjogIkxpc3RhcyBkZSBwZWzDrWN1bGFzIHkgc2VyaWVzIiwgCiAgICAidXJsIjogImh0dHBzOi8vbW92aWR5LmNvL2xpc3RhcyIKfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>CRISTAL AZUL</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/cristalazul.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cristalazul/?url=%24doregex%5Bdistancia%5D&amp;mode=1&amp;name=%5BCOLOR+white%5DCINE%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2Fi.imgur.com%2Fbg6n3AV.png&amp;regexs=%7Bu%27distancia%27%3A%20%7B%27expres%27%3A%20u%27%23%24pyFunction%5Cnimport%20re%2Crequests%2Cxbmc%2Cxbmcaddon%2Cxbmcgui%2Cshutil%2Curllib2%5Cndef%20GetLSProData%28page_data%2CCookie_Jar%2Cm%29%3A%5Cn%20%20%20%20%20%20pasta%20%3D%20requests.get%28%5C%27http%3A//bit.ly/cristal_menus_distancia%5C%27%2C%20headers%3D%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%5C%27%7D%29.content%5Cn%20%20%20%20%20%20return%20re.findall%28%5C%27%3D%22%28.%2A%3F%29%22%5C%27%2C%20pasta%29%5B3%5D%5Cn%27%2C%20%27name%27%3A%20u%27distancia%27%2C%20%27page%27%3A%20None%7D%7D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PALANTIR</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/palantir.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ21vdmllcycsICdvcmRlbic6IDEsICdsYWJlbCc6IHUnW0NPTE9SIGdvbGRdUGVsXHhlZGN1bGFzWy9DT0xPUl0nLCAnc3FsJzogdSdzZWxlY3QgbGFiZWwsYWN0aW9uLGljb24sc3FsLGZhbmFydCBmcm9tIG1lbnVzIHdoZXJlIG1lbnVfaWQ9MjAgIE9SREVSIGJ5IGl0ZW1faWQgYXNjJywgJ2ZhbmFydCc6ICdDOlxcVXNlcnNcXEhQXFxBcHBEYXRhXFxSb2FtaW5nXFxLb2RpXFxhZGRvbnNcXHBsdWdpbi52aWRlby5wYWxhbnRpcjJcXGZhbmFydC5naWYnLCAnY29udGV4dE1lbnUnOiBbKHUnTWFyY2FyIGNvbW8gdmlzdG8nLCAnWEJNQy5SdW5QbHVnaW4ocGx1Z2luOi8vcGx1Z2luLnZpZGVvLnBhbGFudGlyMi8/ZXlkelpXRnpiMjVmYVdRbk9pQW5KeXdnSjJOdmJuUmxiblFuT2lBbmJXOTJhV1Z6Snl3Z0ozUnRaR0luT2lBbkp5d2dKMlZ3YVhOdlpHVW5PaUFuSnl3Z0oyRmpkR2x2YmljNklDZHZhVzh3VDA4d1QwOVBUeWQ5KScpXSwgJ2ljb24nOiB1J2h0dHBzOi8vZ2l0aHViLmNvbS9QYWxhbnRpcmFkZG9uL1BhbGFudGlyL3Jhdy9tYXN0ZXIvbWVkaWEvYWJzdHJhY3QvcGVsaWN1bGFzLnBuZycsICdhY3Rpb24nOiB1J29pT29vMDAnLCAncGFnZSc6IDB9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>GENEROS</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/playlist.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJnZW5lcm9zIiwgCiAgICAiY2F0ZWdvcnkiOiAiVE1EQiIsIAogICAgImNoYW5uZWwiOiAidG1kYmxpc3RzIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJzZWFyY2hfdHlwZSI6ICJtb3ZpZSIsIAogICAgInRodW1ibmFpbCI6ICJDOlxcVXNlcnNcXFdpbnR0ZXJzXFxBcHBEYXRhXFxSb2FtaW5nXFxLb2RpXFxhZGRvbnNcXHBsdWdpbi52aWRlby5iYWxhbmRyb1xccmVzb3VyY2VzXFxtZWRpYVxcdGhlbWVzXFxkZWZhdWx0XFxib29rc2hlbGYucG5nIiwgCiAgICAidGl0bGUiOiAiUGVsw61jdWxhcyBwb3IgR8OpbmVyb3MiCn0%3D",return)</action>
+	</shortcut>
+</shortcuts>

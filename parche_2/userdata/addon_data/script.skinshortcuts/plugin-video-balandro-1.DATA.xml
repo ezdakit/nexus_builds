@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>BALANDRO - MIS SERIES</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special://home/addons%5cplugin.video.balandro%5cresources%5cmedia%5cthemes%5cdefault%5ctv.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdF9zZXJpZXMiLCAKICAgICJjYXRlZ29yeSI6ICJNaSB2aWRlb3RlY2EiLCAKICAgICJjaGFubmVsIjogInRyYWNraW5nIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFByb2dyYW0gRmlsZXNcXEtvZGlcXHBvcnRhYmxlX2RhdGFcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmJhbGFuZHJvXFxyZXNvdXJjZXNcXG1lZGlhXFx0aGVtZXNcXGRlZmF1bHRcXHR2LnBuZyIsIAogICAgInRpdGxlIjogIlNlcmllcyAoMSkiCn0%3D",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BALANDRO - MIS PELIS</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special://home/addons%5cplugin.video.balandro%5cresources%5cmedia%5cthemes%5cdefault%5cclapboard.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdF9wZWxpcyIsIAogICAgImNhdGVnb3J5IjogIk1pIHZpZGVvdGVjYSIsIAogICAgImNoYW5uZWwiOiAidHJhY2tpbmciLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInRodW1ibmFpbCI6ICJDOlxcUHJvZ3JhbSBGaWxlc1xcS29kaVxccG9ydGFibGVfZGF0YVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXHRoZW1lc1xcZGVmYXVsdFxcY2xhcGJvYXJkLnBuZyIsIAogICAgInRpdGxlIjogIlBlbMOtY3VsYXMgKDEpIgp9",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BALANDRO - TMDB - PELIS POPULARES</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special://home/addons%5cplugin.video.balandro%5cresources%5cmedia%5cthemes%5cdefault%5cbookshelf.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0YWRvIiwgCiAgICAiY2F0ZWdvcnkiOiAiVE1EQiIsIAogICAgImNoYW5uZWwiOiAidG1kYmxpc3RzIiwgCiAgICAiZXh0cmEiOiAicG9wdWxhciIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAic2VhcmNoX3R5cGUiOiAibW92aWUiLCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFByb2dyYW0gRmlsZXNcXEtvZGlcXHBvcnRhYmxlX2RhdGFcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmJhbGFuZHJvXFxyZXNvdXJjZXNcXG1lZGlhXFx0aGVtZXNcXGRlZmF1bHRcXGJvb2tzaGVsZi5wbmciLCAKICAgICJ0aXRsZSI6ICJQZWzDrWN1bGFzIG3DoXMgUG9wdWxhcmVzIgp9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BALANDRO - TMDB - PELIS EN CARTELERA</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special://home/addons%5cplugin.video.balandro%5cresources%5cmedia%5cthemes%5cdefault%5cbookshelf.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0YWRvIiwgCiAgICAiY2F0ZWdvcnkiOiAiVE1EQiIsIAogICAgImNoYW5uZWwiOiAidG1kYmxpc3RzIiwgCiAgICAiZXh0cmEiOiAibm93X3BsYXlpbmciLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInNlYXJjaF90eXBlIjogIm1vdmllIiwgCiAgICAidGh1bWJuYWlsIjogIkM6XFxQcm9ncmFtIEZpbGVzXFxLb2RpXFxwb3J0YWJsZV9kYXRhXFxhZGRvbnNcXHBsdWdpbi52aWRlby5iYWxhbmRyb1xccmVzb3VyY2VzXFxtZWRpYVxcdGhlbWVzXFxkZWZhdWx0XFxib29rc2hlbGYucG5nIiwgCiAgICAidGl0bGUiOiAiUGVsw61jdWxhcyBlbiBDYXJ0ZWxlcmEiCn0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BALANDRO - TMDB - PELIS POR GÉNEROS</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special://home/addons%5cplugin.video.balandro%5cresources%5cmedia%5cthemes%5cdefault%5cbookshelf.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJnZW5lcm9zIiwgCiAgICAiY2F0ZWdvcnkiOiAiVE1EQiIsIAogICAgImNoYW5uZWwiOiAidG1kYmxpc3RzIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJzZWFyY2hfdHlwZSI6ICJtb3ZpZSIsIAogICAgInRodW1ibmFpbCI6ICJDOlxcUHJvZ3JhbSBGaWxlc1xcS29kaVxccG9ydGFibGVfZGF0YVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXHRoZW1lc1xcZGVmYXVsdFxcYm9va3NoZWxmLnBuZyIsIAogICAgInRpdGxlIjogIlBlbMOtY3VsYXMgcG9yIEfDqW5lcm9zIgp9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BALANDRO - TMDB - SERIES POPULARES</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special://home/addons%5cplugin.video.balandro%5cresources%5cmedia%5cthemes%5cdefault%5cbookshelf.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0YWRvIiwgCiAgICAiY2F0ZWdvcnkiOiAiVE1EQiIsIAogICAgImNoYW5uZWwiOiAidG1kYmxpc3RzIiwgCiAgICAiZXh0cmEiOiAicG9wdWxhciIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAic2VhcmNoX3R5cGUiOiAidHZzaG93IiwgCiAgICAidGh1bWJuYWlsIjogIkM6XFxQcm9ncmFtIEZpbGVzXFxLb2RpXFxwb3J0YWJsZV9kYXRhXFxhZGRvbnNcXHBsdWdpbi52aWRlby5iYWxhbmRyb1xccmVzb3VyY2VzXFxtZWRpYVxcdGhlbWVzXFxkZWZhdWx0XFxib29rc2hlbGYucG5nIiwgCiAgICAidGl0bGUiOiAiU2VyaWVzIG3DoXMgUG9wdWxhcmVzIgp9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BALANDRO - TMDB - SERIES EN EMISIÓN</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special://home/addons%5cplugin.video.balandro%5cresources%5cmedia%5cthemes%5cdefault%5cbookshelf.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0YWRvIiwgCiAgICAiY2F0ZWdvcnkiOiAiVE1EQiIsIAogICAgImNoYW5uZWwiOiAidG1kYmxpc3RzIiwgCiAgICAiZXh0cmEiOiAib25fdGhlX2FpciIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAic2VhcmNoX3R5cGUiOiAidHZzaG93IiwgCiAgICAidGh1bWJuYWlsIjogIkM6XFxQcm9ncmFtIEZpbGVzXFxLb2RpXFxwb3J0YWJsZV9kYXRhXFxhZGRvbnNcXHBsdWdpbi52aWRlby5iYWxhbmRyb1xccmVzb3VyY2VzXFxtZWRpYVxcdGhlbWVzXFxkZWZhdWx0XFxib29rc2hlbGYucG5nIiwgCiAgICAidGl0bGUiOiAiU2VyaWVzIGVtaXRpw6luZG9zZSBhY3R1YWxtZW50ZSIKfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BALANDRO - TMDB - SERIES POR GÉNEROS</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special://home/addons%5cplugin.video.balandro%5cresources%5cmedia%5cthemes%5cdefault%5cbookshelf.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJnZW5lcm9zIiwgCiAgICAiY2F0ZWdvcnkiOiAiVE1EQiIsIAogICAgImNoYW5uZWwiOiAidG1kYmxpc3RzIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJzZWFyY2hfdHlwZSI6ICJ0dnNob3ciLCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFByb2dyYW0gRmlsZXNcXEtvZGlcXHBvcnRhYmxlX2RhdGFcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmJhbGFuZHJvXFxyZXNvdXJjZXNcXG1lZGlhXFx0aGVtZXNcXGRlZmF1bHRcXGJvb2tzaGVsZi5wbmciLCAKICAgICJ0aXRsZSI6ICJTZXJpZXMgcG9yIEfDqW5lcm9zIgp9",return)</action>
+	</shortcut>
+</shortcuts>
