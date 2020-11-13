@@ -13,7 +13,7 @@
 		<label>BALANDRO</label>
 		<label2>Complemento de Vídeo</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>image://special://home/addons%5cplugin.video.balandro%5cicon.png/</thumb>
+		<thumb>image://C%3a%5cProgram%20Files%5cKodi%5cportable_data%5caddons%5cplugin.video.balandro%5cicon.png/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro",return)</action>
 	</shortcut>
 	<shortcut>
@@ -21,7 +21,7 @@
 		<label>PALANTIR</label>
 		<label2>Complemento de Vídeo</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>image://special://home/addons%5cplugin.video.palantir2%5cicon.png/</thumb>
+		<thumb>image://C%3a%5cProgram%20Files%5cKodi%5cportable_data%5caddons%5cplugin.video.palantir2%5cicon.png/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2",return)</action>
 	</shortcut>
 	<shortcut>
@@ -29,7 +29,7 @@
 		<label>CRISTAL AZUL</label>
 		<label2>Complemento de Vídeo</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>image://special://home/addons%5cplugin.video.cristalazul%5cicon.gif/</thumb>
+		<thumb>image://C%3a%5cProgram%20Files%5cKodi%5cportable_data%5caddons%5cplugin.video.cristalazul%5cicon.gif/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.cristalazul",return)</action>
 	</shortcut>
 	<shortcut>

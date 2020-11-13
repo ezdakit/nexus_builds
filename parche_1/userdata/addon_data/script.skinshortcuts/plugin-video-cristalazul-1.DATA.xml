@@ -31,5 +31,6 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>image://https%3a%2f%2fi.imgur.com%2f5kY0BRB.png/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.cristalazul/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCristalazul%2FCristalazul.io%2Fmain%2FSERIES%2FPRODUCTORAS&amp;mode=1&amp;name=%5BCOLOR+gold%5D%2A+%5BCOLOR+lightseagreen%5DSeries+%5B%2FCOLOR%5D%5BCOLOR+white%5DPor+Productoras%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2Fi.imgur.com%2FtfdPOT5.jpg",return)</action>
+		<disabled>True</disabled>
 	</shortcut>
 </shortcuts>
