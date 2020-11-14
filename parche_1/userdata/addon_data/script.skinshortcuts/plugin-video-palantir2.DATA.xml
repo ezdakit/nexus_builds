@@ -26,6 +26,14 @@
 	</shortcut>
 	<shortcut>
 		<defaultID />
+		<label>DOCUMENTALES</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/cinemavision.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ2ZpbGVzJywgJ29yZGVuJzogMSwgJ2xhYmVsJzogdSdbQ09MT1IgZ29sZF1Eb2N1bWVudGFsZXNbL0NPTE9SXScsICdzcWwnOiB1J3NlbGVjdCBsYWJlbCxhY3Rpb24saWNvbixzcWwsZmFuYXJ0IGZyb20gbWVudXMgd2hlcmUgbWVudV9pZD04MCAgT1JERVIgYnkgaXRlbV9pZCBhc2MnLCAnZmFuYXJ0JzogJy9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL29yZy54Ym1jLmtvZGkvZmlsZXMvLmtvZGkvYWRkb25zL3BsdWdpbi52aWRlby5wYWxhbnRpcjIvZmFuYXJ0LmdpZicsICdpY29uJzogdSdodHRwczovL2dpdGh1Yi5jb20vUGFsYW50aXJhZGRvbi9QYWxhbnRpci9yYXcvbWFzdGVyL21lZGlhL2Fic3RyYWN0L2RvY3VtZW50YWxlcy5wbmcnLCAnYWN0aW9uJzogdSdtZW51JywgJ3BhZ2UnOiAwfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
 		<label>DIBUJOS</label>
 		<label2>Ítem Personalizado</label2>
 		<icon>DefaultShortcut.png</icon>
@@ -47,13 +55,5 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://skin/extras/icons/music.png</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ2ZpbGVzJywgJ29yZGVuJzogMSwgJ2xhYmVsJzogdSdbQ09MT1IgZ29sZF1NdXNpY2FbL0NPTE9SXScsICdzcWwnOiB1J3NlbGVjdCBsYWJlbCxhY3Rpb24saWNvbixzcWwsZmFuYXJ0IGZyb20gbWVudXMgd2hlcmUgbWVudV9pZD03MCAgT1JERVIgYnkgaXRlbV9pZCBhc2MnLCAnZmFuYXJ0JzogJy9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL29yZy54Ym1jLmtvZGkvZmlsZXMvLmtvZGkvYWRkb25zL3BsdWdpbi52aWRlby5wYWxhbnRpcjIvZmFuYXJ0LmdpZicsICdpY29uJzogdSdodHRwczovL2dpdGh1Yi5jb20vUGFsYW50aXJhZGRvbi9QYWxhbnRpci9yYXcvbWFzdGVyL21lZGlhL2Fic3RyYWN0L211c2ljYS5wbmcnLCAnYWN0aW9uJzogdSdtZW51JywgJ3BhZ2UnOiAwfQ%3D%3D",return)</action>
-	</shortcut>
-	<shortcut>
-		<defaultID />
-		<label>DOCUMENTALES</label>
-		<label2>Ítem Personalizado</label2>
-		<icon>DefaultShortcut.png</icon>
-		<thumb>special://skin/extras/icons/cinemavision.png</thumb>
-		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ2ZpbGVzJywgJ29yZGVuJzogMSwgJ2xhYmVsJzogdSdbQ09MT1IgZ29sZF1Eb2N1bWVudGFsZXNbL0NPTE9SXScsICdzcWwnOiB1J3NlbGVjdCBsYWJlbCxhY3Rpb24saWNvbixzcWwsZmFuYXJ0IGZyb20gbWVudXMgd2hlcmUgbWVudV9pZD04MCAgT1JERVIgYnkgaXRlbV9pZCBhc2MnLCAnZmFuYXJ0JzogJy9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL29yZy54Ym1jLmtvZGkvZmlsZXMvLmtvZGkvYWRkb25zL3BsdWdpbi52aWRlby5wYWxhbnRpcjIvZmFuYXJ0LmdpZicsICdpY29uJzogdSdodHRwczovL2dpdGh1Yi5jb20vUGFsYW50aXJhZGRvbi9QYWxhbnRpci9yYXcvbWFzdGVyL21lZGlhL2Fic3RyYWN0L2RvY3VtZW50YWxlcy5wbmcnLCAnYWN0aW9uJzogdSdtZW51JywgJ3BhZ2UnOiAwfQ%3D%3D",return)</action>
 	</shortcut>
 </shortcuts>

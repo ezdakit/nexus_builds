@@ -76,7 +76,7 @@
     <setting id="input.controllerpoweroff" default="true">false</setting>
     <setting id="input.enablemouse">false</setting>
     <setting id="input.rumblenotify" default="true">false</setting>
-    <setting id="locale.activekeyboardlayout" default="true">English QWERTY</setting>
+    <setting id="locale.activekeyboardlayout">Spanish QWERTY</setting>
     <setting id="locale.audiolanguage">default</setting>
     <setting id="locale.charset" default="true">DEFAULT</setting>
     <setting id="locale.country">España (24 horas)</setting>
@@ -363,16 +363,16 @@
             <sortattributes>0</sortattributes>
         </pictures>
         <programs>
-            <viewmode>65536</viewmode>
+            <viewmode>65586</viewmode>
             <sortmethod>1</sortmethod>
             <sortorder>1</sortorder>
             <sortattributes>1</sortattributes>
         </programs>
         <videofiles>
             <viewmode>65536</viewmode>
-            <sortmethod>1</sortmethod>
-            <sortorder>1</sortorder>
-            <sortattributes>1</sortattributes>
+            <sortmethod>0</sortmethod>
+            <sortorder>0</sortorder>
+            <sortattributes>0</sortattributes>
         </videofiles>
         <videonavactors>
             <viewmode>65536</viewmode>
@@ -429,7 +429,7 @@
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>
         </eventlog>
-        <systemtotaluptime>699</systemtotaluptime>
+        <systemtotaluptime>750</systemtotaluptime>
     </general>
     <resolutions />
     <defaultvideosettings>

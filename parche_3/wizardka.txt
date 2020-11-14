@@ -1,5 +1,5 @@
-name="NEXUS-ADDON_DATA"
-url="https://www.dropbox.com/s/l0kiz1n3e83ltql/20201111addondata.zip?dl=1" 
+name="NEXUS-ADDON PACK"
+url="https://github.com/ezdakit/nexus_builds/raw/main/parche_3/parche_3.zip" 
 img="http://miservidor.com/icono.png"
 fanart="http://miservidor.com/fondo.jpg"
-description="NEXUS-ADDON_DATA"
+description="NEXUS-ADDON PACK: ELEMENTUM CON REPO Y BURST"
