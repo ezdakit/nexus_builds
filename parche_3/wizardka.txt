@@ -1,5 +1,0 @@
-name="NEXUS-ADDON PACK"
-url="https://github.com/ezdakit/nexus_builds/raw/main/parche_3/parche_3.zip" 
-img="http://miservidor.com/icono.png"
-fanart="http://miservidor.com/fondo.jpg"
-description="NEXUS-ADDON PACK: ELEMENTUM CON REPO Y BURST"
