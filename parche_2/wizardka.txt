@@ -1,5 +1,5 @@
-name="NEXUS-ADDONS SETTINGS"
+name="NEXUS ADDONS SETTINGS"
 url="https://github.com/ezdakit/nexus_builds/raw/main/parche_2/parche_2.zip" 
 img="http://miservidor.com/icono.png"
 fanart="http://miservidor.com/fondo.jpg"
-description="SETTINGS DE ADDONS - BALANDRO"
+description="SETTINGS BALANDRO"
