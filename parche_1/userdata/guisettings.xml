@@ -363,13 +363,13 @@
             <sortattributes>0</sortattributes>
         </pictures>
         <programs>
-            <viewmode>65586</viewmode>
+            <viewmode>0</viewmode>
             <sortmethod>1</sortmethod>
             <sortorder>1</sortorder>
             <sortattributes>1</sortattributes>
         </programs>
         <videofiles>
-            <viewmode>65536</viewmode>
+            <viewmode>0</viewmode>
             <sortmethod>0</sortmethod>
             <sortorder>0</sortorder>
             <sortattributes>0</sortattributes>
@@ -429,7 +429,7 @@
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>
         </eventlog>
-        <systemtotaluptime>750</systemtotaluptime>
+        <systemtotaluptime>811</systemtotaluptime>
     </general>
     <resolutions />
     <defaultvideosettings>
