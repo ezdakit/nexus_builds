@@ -50,12 +50,12 @@
 		<action>ActivateWindow(Videos,"plugin://plugin.video.mitele",return)</action>
 	</shortcut>
 	<shortcut>
-		<defaultID>plugin.video.dplay_dmax_dkiss</defaultID>
-		<label>DPLAY</label>
+		<defaultID>plugin.video.rtve</defaultID>
+		<label>RTVE</label>
 		<label2>Complemento de Vídeo</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://skin/extras/icons/dplay.png</thumb>
-		<action>ActivateWindow(Videos,"plugin://plugin.video.dplay_dmax_dkiss",return)</action>
+		<thumb>special://skin/extras/icons/rtve.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.rtve",return)</action>
 	</shortcut>
 	<shortcut>
 		<defaultID>plugin.video.eitbalacarta</defaultID>
@@ -74,12 +74,12 @@
 		<action>ActivateWindow(Videos,"plugin://slyguy.pluto.tv.provider/?_=live_tv",return)</action>
 	</shortcut>
 	<shortcut>
-		<defaultID>plugin.video.rtve</defaultID>
-		<label>RTVE</label>
+		<defaultID>plugin.video.dplay_dmax_dkiss</defaultID>
+		<label>DPLAY</label>
 		<label2>Complemento de Vídeo</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://skin/extras/icons/rtve.png</thumb>
-		<action>ActivateWindow(Videos,"plugin://plugin.video.rtve",return)</action>
+		<thumb>special://skin/extras/icons/dplay.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.dplay_dmax_dkiss",return)</action>
 	</shortcut>
 	<shortcut>
 		<defaultID>add-onsdevideo</defaultID>
