@@ -1,8 +1,8 @@
 <settings version="2">
-    <setting id="addon_tracking_atstart" default="true">false</setting>
+    <setting id="addon_tracking_atstart">true</setting>
     <setting id="addon_tracking_doit" default="true"></setting>
     <setting id="addon_tracking_interval" default="true">12</setting>
-    <setting id="addon_tracking_lastscrap" default="true"></setting>
+    <setting id="addon_tracking_lastscrap">1605618616.3</setting>
     <setting id="addon_tracking_verbose" default="true">false</setting>
     <setting id="addon_update_atstart">true</setting>
     <setting id="addon_update_doit" default="true"></setting>
@@ -41,7 +41,7 @@
     <setting id="channels_list_order">true</setting>
     <setting id="channels_list_prefe_color" default="true">[COLOR gold]gold[/COLOR]</setting>
     <setting id="channels_list_status" default="true">0</setting>
-    <setting id="cliente_torrent" default="true">Ninguno</setting>
+    <setting id="cliente_torrent">Elementum</setting>
     <setting id="colorear_enlaces_play">true</setting>
     <setting id="context_download_color">[COLOR green]green[/COLOR]</setting>
     <setting id="context_search_exact_color">[COLOR cyan]cyan[/COLOR]</setting>
@@ -72,9 +72,10 @@
     <setting id="preferencia_idioma_lat">2</setting>
     <setting id="preferencia_idioma_vos">3</setting>
     <setting id="search_last_all" default="true">Oliver y Benji</setting>
-    <setting id="search_last_movie" default="true">invisible</setting>
-    <setting id="search_last_tvshow" default="true"></setting>
-    <setting id="search_limit_by_channel" default="true">2</setting>
+    <setting id="search_last_movie" default="true">corderos</setting>
+    <setting id="search_last_person" default="true">tarantino</setting>
+    <setting id="search_last_tvshow" default="true">cherno</setting>
+    <setting id="search_limit_by_channel">10</setting>
     <setting id="search_multithread">true</setting>
     <setting id="search_show_last" default="true">false</setting>
     <setting id="servers_discarded" default="true"></setting>
@@ -101,9 +102,9 @@
     <setting id="tracking_order_episodes">1</setting>
     <setting id="tracking_order_movies" default="true">0</setting>
     <setting id="tracking_order_tvshows" default="true">0</setting>
-    <setting id="tracking_perpage_episodes" default="true">10</setting>
-    <setting id="tracking_perpage_movies" default="true">10</setting>
-    <setting id="tracking_perpage_tvshows" default="true">10</setting>
+    <setting id="tracking_perpage_episodes">30</setting>
+    <setting id="tracking_perpage_movies">30</setting>
+    <setting id="tracking_perpage_tvshows">30</setting>
     <setting id="tracking_viewmode_episodes" default="true">0</setting>
     <setting id="tracking_viewmode_movies" default="true">0</setting>
     <setting id="tracking_viewmode_seasons" default="true">0</setting>

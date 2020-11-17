@@ -370,9 +370,9 @@
         </programs>
         <videofiles>
             <viewmode>0</viewmode>
-            <sortmethod>0</sortmethod>
-            <sortorder>0</sortorder>
-            <sortattributes>0</sortattributes>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>1</sortattributes>
         </videofiles>
         <videonavactors>
             <viewmode>65536</viewmode>
@@ -479,6 +479,6 @@
     </myvideos>
     <audio>
         <mute>false</mute>
-        <fvolumelevel>0.966667</fvolumelevel>
+        <fvolumelevel>1.000000</fvolumelevel>
     </audio>
 </settings>
