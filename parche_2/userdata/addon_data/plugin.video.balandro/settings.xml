@@ -2,10 +2,11 @@
     <setting id="addon_tracking_atstart">true</setting>
     <setting id="addon_tracking_doit" default="true"></setting>
     <setting id="addon_tracking_interval" default="true">12</setting>
-    <setting id="addon_tracking_lastscrap">1605618616.3</setting>
+    <setting id="addon_tracking_lastscrap">1605795263.07</setting>
     <setting id="addon_tracking_verbose" default="true">false</setting>
     <setting id="addon_update_atstart">true</setting>
     <setting id="addon_update_doit" default="true"></setting>
+    <setting id="addon_update_doitforce" default="true"></setting>
     <setting id="addon_update_verbose" default="true">false</setting>
     <setting id="autoplay" default="true">false</setting>
     <setting id="autoplay_channels_discarded" default="true"></setting>
@@ -74,7 +75,7 @@
     <setting id="search_last_all" default="true">Oliver y Benji</setting>
     <setting id="search_last_movie" default="true">corderos</setting>
     <setting id="search_last_person" default="true">tarantino</setting>
-    <setting id="search_last_tvshow" default="true">cherno</setting>
+    <setting id="search_last_tvshow" default="true">undoing</setting>
     <setting id="search_limit_by_channel">10</setting>
     <setting id="search_multithread">true</setting>
     <setting id="search_show_last" default="true">false</setting>
