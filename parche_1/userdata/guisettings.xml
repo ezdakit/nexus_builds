@@ -369,7 +369,7 @@
             <sortattributes>1</sortattributes>
         </programs>
         <videofiles>
-            <viewmode>0</viewmode>
+            <viewmode>65536</viewmode>
             <sortmethod>1</sortmethod>
             <sortorder>1</sortorder>
             <sortattributes>1</sortattributes>
@@ -443,7 +443,7 @@
         <pixelratio>1.000000</pixelratio>
         <verticalshift>0.000000</verticalshift>
         <volumeamplification>20.000000</volumeamplification>
-        <showsubtitles>true</showsubtitles>
+        <showsubtitles>false</showsubtitles>
         <brightness>50.000000</brightness>
         <contrast>50.000000</contrast>
         <gamma>20.000000</gamma>
