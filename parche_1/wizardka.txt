@@ -1,5 +1,5 @@
-name="INSTALAR MENUS NEXUS"
+name="BAT, BI, HIRU, BI ..."
 url="https://github.com/ezdakit/nexus_builds/raw/main/parche_1/parche_1.zip" 
 img="http://miservidor.com/icono.png"
 fanart="http://miservidor.com/fondo.jpg"
-description="PARA ACTUALIZAR LOS MENUS DE INICIO"
+description="PARA ACTUALIZAR LOS MENUS Y LA CONFIG DE BALANDRO"

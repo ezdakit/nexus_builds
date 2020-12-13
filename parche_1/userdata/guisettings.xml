@@ -12,7 +12,7 @@
     <setting id="audiooutput.ac3passthrough" default="true">true</setting>
     <setting id="audiooutput.ac3transcode" default="true">false</setting>
     <setting id="audiooutput.atempothreshold" default="true">2</setting>
-    <setting id="audiooutput.audiodevice" default="true">Default</setting>
+    <setting id="audiooutput.audiodevice" default="true">DIRECTSOUND:default</setting>
     <setting id="audiooutput.channels" default="true">1</setting>
     <setting id="audiooutput.config" default="true">2</setting>
     <setting id="audiooutput.dtshdpassthrough" default="true">false</setting>
@@ -199,7 +199,7 @@
     <setting id="scrapers.moviesdefault" default="true">metadata.themoviedb.org</setting>
     <setting id="scrapers.musicvideosdefault" default="true">metadata.local</setting>
     <setting id="scrapers.tvshowsdefault" default="true">metadata.tvshows.themoviedb.org</setting>
-    <setting id="screensaver.mode" default="true"></setting>
+    <setting id="screensaver.mode" default="true">screensaver.xbmc.builtin.dim</setting>
     <setting id="screensaver.time" default="true">3</setting>
     <setting id="screensaver.usedimonpause" default="true">true</setting>
     <setting id="screensaver.usemusicvisinstead" default="true">true</setting>
@@ -229,7 +229,7 @@
     <setting id="services.webserverssl" default="true">false</setting>
     <setting id="services.webserverusername" default="true">kodi</setting>
     <setting id="services.webskin" default="true">webinterface.default</setting>
-    <setting id="services.zeroconf" default="true">true</setting>
+    <setting id="services.zeroconf" default="true">false</setting>
     <setting id="slideshow.displayeffects" default="true">true</setting>
     <setting id="slideshow.highqualitydownscaling" default="true">false</setting>
     <setting id="slideshow.shuffle" default="true">false</setting>
@@ -306,7 +306,7 @@
     <setting id="videoscreen.dither" default="true">false</setting>
     <setting id="videoscreen.ditherdepth" default="true">8</setting>
     <setting id="videoscreen.fakefullscreen" default="true">true</setting>
-    <setting id="videoscreen.limitgui" default="true">0</setting>
+    <setting id="videoscreen.limitedrange" default="true">false</setting>
     <setting id="videoscreen.monitor" default="true">Default</setting>
     <setting id="videoscreen.noofbuffers" default="true">3</setting>
     <setting id="videoscreen.preferedstereoscopicmode" default="true">100</setting>
@@ -319,6 +319,64 @@
     <setting id="weather.currentlocation" default="true">1</setting>
     <setting id="window.height" default="true">480</setting>
     <setting id="window.width" default="true">720</setting>
+    <audio>
+        <mute>false</mute>
+        <fvolumelevel>1.000000</fvolumelevel>
+    </audio>
+    <resolutions />
+    <general>
+        <systemtotaluptime>1083</systemtotaluptime>
+        <settinglevel>3</settinglevel>
+        <eventlog>
+            <level>0</level>
+            <showhigherlevels>true</showhigherlevels>
+        </eventlog>
+    </general>
+    <defaultvideosettings>
+        <interlacemethod>1</interlacemethod>
+        <scalingmethod>1</scalingmethod>
+        <noisereduction>0.000000</noisereduction>
+        <postprocess>false</postprocess>
+        <sharpness>0.000000</sharpness>
+        <viewmode>0</viewmode>
+        <zoomamount>1.000000</zoomamount>
+        <pixelratio>1.000000</pixelratio>
+        <verticalshift>0.000000</verticalshift>
+        <volumeamplification>20.000000</volumeamplification>
+        <showsubtitles>false</showsubtitles>
+        <brightness>50.000000</brightness>
+        <contrast>50.000000</contrast>
+        <gamma>20.000000</gamma>
+        <audiodelay>0.000000</audiodelay>
+        <subtitledelay>0.000000</subtitledelay>
+        <nonlinstretch>false</nonlinstretch>
+        <stereomode>0</stereomode>
+        <centermixlevel>0</centermixlevel>
+    </defaultvideosettings>
+    <defaultaudiosettings />
+    <defaultgamesettings>
+        <videofilter></videofilter>
+        <stretchmode>normal</stretchmode>
+        <rotation>0</rotation>
+    </defaultgamesettings>
+    <mymusic>
+        <playlist>
+            <repeat>false</repeat>
+            <shuffle>false</shuffle>
+        </playlist>
+        <needsupdate>0</needsupdate>
+    </mymusic>
+    <myvideos>
+        <watchmodemovies>0</watchmodemovies>
+        <watchmodetvshows>0</watchmodetvshows>
+        <watchmodemusicvideos>0</watchmodemusicvideos>
+        <watchmoderecordings>0</watchmoderecordings>
+        <playlist>
+            <repeat>false</repeat>
+            <shuffle>false</shuffle>
+        </playlist>
+        <needsupdate>0</needsupdate>
+    </myvideos>
     <viewstates>
         <games>
             <viewmode>720896</viewmode>
@@ -423,62 +481,4 @@
             <sortattributes>0</sortattributes>
         </videonavyears>
     </viewstates>
-    <general>
-        <settinglevel>3</settinglevel>
-        <eventlog>
-            <level>0</level>
-            <showhigherlevels>true</showhigherlevels>
-        </eventlog>
-        <systemtotaluptime>872</systemtotaluptime>
-    </general>
-    <resolutions />
-    <defaultvideosettings>
-        <interlacemethod>1</interlacemethod>
-        <scalingmethod>1</scalingmethod>
-        <noisereduction>0.000000</noisereduction>
-        <postprocess>false</postprocess>
-        <sharpness>0.000000</sharpness>
-        <viewmode>0</viewmode>
-        <zoomamount>1.000000</zoomamount>
-        <pixelratio>1.000000</pixelratio>
-        <verticalshift>0.000000</verticalshift>
-        <volumeamplification>20.000000</volumeamplification>
-        <showsubtitles>false</showsubtitles>
-        <brightness>50.000000</brightness>
-        <contrast>50.000000</contrast>
-        <gamma>20.000000</gamma>
-        <audiodelay>0.000000</audiodelay>
-        <subtitledelay>0.000000</subtitledelay>
-        <nonlinstretch>false</nonlinstretch>
-        <stereomode>0</stereomode>
-        <centermixlevel>0</centermixlevel>
-    </defaultvideosettings>
-    <defaultaudiosettings />
-    <defaultgamesettings>
-        <videofilter></videofilter>
-        <stretchmode>normal</stretchmode>
-        <rotation>0</rotation>
-    </defaultgamesettings>
-    <mymusic>
-        <playlist>
-            <repeat>false</repeat>
-            <shuffle>false</shuffle>
-        </playlist>
-        <needsupdate>0</needsupdate>
-    </mymusic>
-    <myvideos>
-        <watchmodemovies>0</watchmodemovies>
-        <watchmodetvshows>0</watchmodetvshows>
-        <watchmodemusicvideos>0</watchmodemusicvideos>
-        <watchmoderecordings>0</watchmoderecordings>
-        <playlist>
-            <repeat>false</repeat>
-            <shuffle>false</shuffle>
-        </playlist>
-        <needsupdate>0</needsupdate>
-    </myvideos>
-    <audio>
-        <mute>false</mute>
-        <fvolumelevel>1.000000</fvolumelevel>
-    </audio>
 </settings>
