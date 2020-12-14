@@ -15,5 +15,6 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>image://https%3a%2f%2fi.imgur.com%2f2tS3oPI.jpg/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.cristalazul/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCristalazul%2FCristalazul.io%2Fmain%2FSUBMENUS-WIZARD%2FBUSCADORES&amp;mode=1&amp;name=%5BCOLOR+gold%5D%2A%5B%2FCOLOR%5D+%5BCOLOR+lightsalmon%5DBUSCADORES+%5BCOLOR+white%5DCine+y+Series%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2Fi.imgur.com%2FRsLj1lh.jpg",return)</action>
+		<disabled>True</disabled>
 	</shortcut>
 </shortcuts>

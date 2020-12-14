@@ -25,14 +25,6 @@
 		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2",return)</action>
 	</shortcut>
 	<shortcut>
-		<defaultID>plugin.video.cristalazul</defaultID>
-		<label>CRISTAL AZUL</label>
-		<label2>Complemento de Vídeo</label2>
-		<icon>DefaultShortcut.png</icon>
-		<thumb>image://C%3a%5cProgram%20Files%5cKodi%5cportable_data%5caddons%5cplugin.video.cristalazul%5cicon.gif/</thumb>
-		<action>ActivateWindow(Videos,"plugin://plugin.video.cristalazul",return)</action>
-	</shortcut>
-	<shortcut>
 		<defaultID />
 		<label>SPORTS</label>
 		<label2>Ítem Personalizado</label2>
@@ -55,6 +47,14 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://skin/extras/icons/search.png</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIkJhbGFuZHJvIiwgCiAgICAiY2hhbm5lbCI6ICJzZWFyY2giLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInRodW1ibmFpbCI6ICJDOlxcVXNlcnNcXFdpbnR0ZXJzXFxBcHBEYXRhXFxSb2FtaW5nXFxLb2RpXFxhZGRvbnNcXHBsdWdpbi52aWRlby5iYWxhbmRyb1xccmVzb3VyY2VzXFxtZWRpYVxcdGhlbWVzXFxkZWZhdWx0XFxtYWduaWZ5aW5nZ2xhc3MucG5nIiwgCiAgICAidGl0bGUiOiAiQnVzY2FyIgp9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.cristalazul</defaultID>
+		<label>CRISTAL AZUL</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cProgram%20Files%5cKodi%5cportable_data%5caddons%5cplugin.video.cristalazul%5cicon.gif/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cristalazul",return)</action>
 	</shortcut>
 	<shortcut>
 		<defaultID>31429</defaultID>
