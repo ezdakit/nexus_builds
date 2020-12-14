@@ -2,7 +2,7 @@
     <setting id="addon_tracking_atstart">true</setting>
     <setting id="addon_tracking_doit" default="true"></setting>
     <setting id="addon_tracking_interval" default="true">12</setting>
-    <setting id="addon_tracking_lastscrap">1605795263.07</setting>
+    <setting id="addon_tracking_lastscrap">1607936623.48</setting>
     <setting id="addon_tracking_verbose" default="true">false</setting>
     <setting id="addon_update_atstart">true</setting>
     <setting id="addon_update_doit" default="true"></setting>
@@ -20,7 +20,7 @@
     <setting id="channel_cliver_proxytools_provider" default="true">spys.me</setting>
     <setting id="channel_cliver_proxytools_tipo" default="true"></setting>
     <setting id="channel_gnula_status" default="true">0</setting>
-    <setting id="channel_hdfull_dominio" default="true">https://hdfull.la/</setting>
+    <setting id="channel_hdfull_dominio" default="true">https://hdfull.lv/</setting>
     <setting id="channel_movidy_status" default="true">0</setting>
     <setting id="channel_peliculasflix_status" default="true">0</setting>
     <setting id="channel_pelisvips_proxies" default="true">171.97.88.223:8080, 1.0.186.183:8080, 91.206.30.218:3128</setting>
@@ -50,7 +50,7 @@
     <setting id="context_tracking_color">[COLOR gold]gold[/COLOR]</setting>
     <setting id="context_trailer_color" default="true">[COLOR pink]pink[/COLOR]</setting>
     <setting id="debug">1</setting>
-    <setting id="descartar_xxx" default="true">false</setting>
+    <setting id="descartar_xxx">true</setting>
     <setting id="downloadpath">special:profile/addon_data/plugin.program.stva/descargas</setting>
     <setting id="httptools_timeout" default="true">15</setting>
     <setting id="list_info_order">3</setting>
