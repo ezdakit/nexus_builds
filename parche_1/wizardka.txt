@@ -1,5 +1,5 @@
 name="BAT, BI, HIRU, BI ... INSTALAR PARCHE V02"
 url="https://github.com/ezdakit/nexus_builds/raw/main/parche_1/parche_1.zip" 
-img="https://github.com/ezdakit/nexus_builds/raw/main/alive.png"
-fanart="https://github.com/ezdakit/nexus_builds/raw/main/alive.png"
+img="https://github.com/ezdakit/nexus_builds/raw/main/alive.jpg"
+fanart="https://github.com/ezdakit/nexus_builds/raw/main/alive.jpg"
 description="PARA ACTUALIZAR LOS MENUS Y LA CONFIG DE BALANDRO"
