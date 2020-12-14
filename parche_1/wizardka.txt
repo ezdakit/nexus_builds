@@ -1,4 +1,4 @@
-name="BAT, BI, HIRU, BI ... INSTALAR PARCHE"
+name="BAT, BI, HIRU, BI ... INSTALAR PARCHE V02"
 url="https://github.com/ezdakit/nexus_builds/raw/main/parche_1/parche_1.zip" 
 img="http://miservidor.com/icono.png"
 fanart="http://miservidor.com/fondo.jpg"
