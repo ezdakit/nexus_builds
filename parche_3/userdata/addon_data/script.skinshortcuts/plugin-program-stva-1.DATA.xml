@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><shortcuts>
+	<shortcut>
+		<defaultID>ajustes</defaultID>
+		<label>AJUSTES</label>
+		<label2>Widget</label2>
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb/>
+		<action>Settings</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>1037</defaultID>
+		<label>ADDONS DE VIDEO</label>
+		<label2>Vídeos</label2>
+		<icon>special://skin/extras/icons/video-addons.png</icon>
+		<thumb/>
+		<action>addons://sources/video/</action>
+	</shortcut>
+</shortcuts>

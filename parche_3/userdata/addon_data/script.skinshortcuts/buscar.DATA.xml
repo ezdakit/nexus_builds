@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>BUSCAR BALANDRO</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIkJhbGFuZHJvIiwgCiAgICAiY2hhbm5lbCI6ICJzZWFyY2giLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInRodW1ibmFpbCI6ICJDOlxcVXNlcnNcXEhQXFxBcHBEYXRhXFxSb2FtaW5nXFxLb2RpXFxhZGRvbnNcXHBsdWdpbi52aWRlby5iYWxhbmRyb1xccmVzb3VyY2VzXFxtZWRpYVxcdGhlbWVzXFxkZWZhdWx0XFxtYWduaWZ5aW5nZ2xhc3MucG5nIiwgCiAgICAidGl0bGUiOiAiQnVzY2FyIgp9",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BUSCAR CRISTAL AZUL</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cristalazul/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCristalazul%2FCristalazul.io%2Fmain%2FSUBMENUS-WIZARD%2FBUSCADORES&amp;mode=1&amp;name=%5BCOLOR+gold%5D%2A%5B%2FCOLOR%5D+%5BCOLOR+lightsalmon%5DBUSCADORES+%5BCOLOR+white%5DCine+y+Series%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2Fi.imgur.com%2FRsLj1lh.jpg",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.program.iagl</defaultID>
+		<label>JUEGOS RETRO</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/games.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.iagl",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.youtube</defaultID>
+		<label>YOUTUBE</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/youtube.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.youtube",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BUSCAR PELI PALANTIR</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydvcmRlbic6IDIsICdmYW5hcnQnOiAnL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLnBhbGFudGlyMi9mYW5hcnQuZ2lmJywgJ2xhYmVsJzogdSdbQ09MT1IgY2hvY29sYXRlXUJ1c2NhcjpbL0NPTE9SXVtDT0xPUiBnb2xkXVBvciB0XHhlZHR1bG9bL0NPTE9SXScsICdjb250ZW50JzogJ2ZpbGVzJywgJ3NxbCc6IHUic2VsZWN0IG5vbWJyZSwgYW5ubywgc2lub3BzaXMsIGNhcmF0dWxhLCBwb3N0ZXIsIGdyb3VwX2lkLCBHUk9VUF9DT05DQVQodGFncywnIycpICx0bWRiXHJcclxuZnJvbSBwZWxpcyBXSEVSRSBhY3RpdmUgPiAwIGFuZCBpUkVHRVhQICgnJXMnLCBub21icmUpXHJcclxuYW5kIGdlbmVybyBub3QgbGlrZSAnVHV0b3JpYWxlcydcclxyXG5ncm91cCBieSBncm91cF9pZCBPUkRFUiBieSBub21icmUgQ09MTEFURSBsYXRpbjE7IiwgJ2FjdGlvbic6IHUnYnVzY2FyJywgJ3BhZ2UnOiAwLCAnaWNvbic6IHUnaHR0cHM6Ly9naXRodWIuY29tL1BhbGFudGlyYWRkb24vUGFsYW50aXIvcmF3L21hc3Rlci9tZWRpYS9hYnN0cmFjdC9wZWxpc19hbGZhLnBuZyd9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BUSCAR SERIE PALANTIR</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydvcmRlbic6IDIsICdmYW5hcnQnOiAnL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLnBhbGFudGlyMi9mYW5hcnQuZ2lmJywgJ2xhYmVsJzogdSdbQ09MT1IgY2hvY29sYXRlXUJ1c2NhcjpbL0NPTE9SXVtDT0xPUiBnb2xkXVBvciB0XHhlZHR1bG9bL0NPTE9SXScsICdjb250ZW50JzogJ2ZpbGVzJywgJ3NxbCc6IHUiU2VsZWN0IG5vbWJyZSwgYW5ubywgc2lub3BzaXMsIGNhcmF0dWxhLHBvc3Rlciwgc2VyaWVfaWQsIGF1ZGlvLCB0bWRiLCBsaW5rLCBoYXNfY29udGVudFxyXHJcbmZyb20gc2VyaWVzIFxyXHJcbndoZXJlIGFjdGl2ZSA%2BIDAgYW5kIGNhdGVnb3J5IG5vdCBSRUdFWFAgJ0RvY3VtZW50YWx8TXVzaWNhfEFuaW1lfERpYnVqb3MnIGFuZCBpUkVHRVhQICgnJXMnLCBub21icmUpXHJcclxuT1JERVIgYnkgbm9tYnJlIENPTExBVEUgbGF0aW4xOyIsICdhY3Rpb24nOiB1J2J1c2NhcicsICdwYWdlJzogMCwgJ2ljb24nOiB1J2h0dHBzOi8vZ2l0aHViLmNvbS9QYWxhbnRpcmFkZG9uL1BhbGFudGlyL3Jhdy9tYXN0ZXIvbWVkaWEvYWJzdHJhY3Qvc2VyaWVzX2FsZmEucG5nJ30%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BUSCAR DIBUS PALANTIR</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydvcmRlbic6IDIsICdmYW5hcnQnOiAnL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLnBhbGFudGlyMi9mYW5hcnQuZ2lmJywgJ2xhYmVsJzogdSdbQ09MT1IgY2hvY29sYXRlXVNlcmllcyBkZSBEaWJ1am9zOlsvQ09MT1JdW0NPTE9SIGdvbGRdQnVzY2FyIHBvciB0XHhlZHR1bG9bL0NPTE9SXScsICdjb250ZW50JzogJ2ZpbGVzJywgJ3NxbCc6IHUiU2VsZWN0IG5vbWJyZSwgYW5ubywgc2lub3BzaXMsIGNhcmF0dWxhLHBvc3Rlciwgc2VyaWVfaWQsIGF1ZGlvLCB0bWRiLCBsaW5rLCBoYXNfY29udGVudFxyXHJcbmZyb20gc2VyaWVzIHdoZXJlIGFjdGl2ZSA%2BIDAgYW5kIGNhdGVnb3J5IFJFR0VYUCAnRGlidWpvcycgYW5kIGlSRUdFWFAgKCclcycsIG5vbWJyZSlcclxyXG5PUkRFUiBieSBub21icmUgQ09MTEFURSBsYXRpbjE7IiwgJ2FjdGlvbic6IHUnYnVzY2FyJywgJ3BhZ2UnOiAwLCAnaWNvbic6IHUnaHR0cHM6Ly9naXRodWIuY29tL1BhbGFudGlyYWRkb24vUGFsYW50aXIvcmF3L21hc3Rlci9tZWRpYS9hYnN0cmFjdC9yZWJ1c2Nhci5wbmcnfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BUSCAR ANIME PALANTIR</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydvcmRlbic6IDIsICdmYW5hcnQnOiAnL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLnBhbGFudGlyMi9mYW5hcnQuZ2lmJywgJ2xhYmVsJzogdSdbQ09MT1IgY2hvY29sYXRlXVNlcmllcyBBbmltZTpbL0NPTE9SXVtDT0xPUiBnb2xkXUJ1c2NhciBwb3IgdFx4ZWR0dWxvWy9DT0xPUl0nLCAnY29udGVudCc6ICdmaWxlcycsICdzcWwnOiB1IlNlbGVjdCBub21icmUsIGFubm8sIHNpbm9wc2lzLCBjYXJhdHVsYSxwb3N0ZXIsIHNlcmllX2lkLCBhdWRpbywgdG1kYiwgbGluaywgaGFzX2NvbnRlbnRcclxyXG5mcm9tIHNlcmllcyB3aGVyZSBhY3RpdmUgPiAwIGFuZCBjYXRlZ29yeSBSRUdFWFAgJ0FuaW1lJyBhbmQgaVJFR0VYUCAoJyVzJywgbm9tYnJlKVxyXHJcbk9SREVSIGJ5IG5vbWJyZSBDT0xMQVRFIGxhdGluMTsiLCAnYWN0aW9uJzogdSdidXNjYXInLCAncGFnZSc6IDAsICdpY29uJzogdSdodHRwczovL2dpdGh1Yi5jb20vUGFsYW50aXJhZGRvbi9QYWxhbnRpci9yYXcvbWFzdGVyL21lZGlhL2Fic3RyYWN0L3JlYnVzY2FyLnBuZyd9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BUSCAR DOCUS PALANTIR</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydvcmRlbic6IDIsICdmYW5hcnQnOiAnL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLnBhbGFudGlyMi9mYW5hcnQuZ2lmJywgJ2xhYmVsJzogdSdbQ09MT1IgY2hvY29sYXRlXVNlcmllcyBEb2N1bWVudGFsOlsvQ09MT1JdW0NPTE9SIGdvbGRdQnVzY2FyIHBvciB0XHhlZHR1bG9bL0NPTE9SXScsICdjb250ZW50JzogJ2ZpbGVzJywgJ3NxbCc6IHUiU2VsZWN0IG5vbWJyZSwgYW5ubywgc2lub3BzaXMsIGNhcmF0dWxhLHBvc3Rlciwgc2VyaWVfaWQsIGF1ZGlvLCB0bWRiLCBsaW5rLCBoYXNfY29udGVudFxyXHJcbmZyb20gc2VyaWVzIHdoZXJlIGFjdGl2ZSA%2BIDAgYW5kIGNhdGVnb3J5IFJFR0VYUCAnRG9jdW1lbnRhbCcgYW5kIGlSRUdFWFAgKCclcycsIG5vbWJyZSlcclxyXG5PUkRFUiBieSBub21icmUgQ09MTEFURSBsYXRpbjE7IiwgJ2FjdGlvbic6IHUnYnVzY2FyJywgJ3BhZ2UnOiAwLCAnaWNvbic6IHUnaHR0cHM6Ly9naXRodWIuY29tL1BhbGFudGlyYWRkb24vUGFsYW50aXIvcmF3L21hc3Rlci9tZWRpYS9hYnN0cmFjdC9yZWJ1c2Nhci5wbmcnfQ%3D%3D",return)</action>
+	</shortcut>
+</shortcuts>

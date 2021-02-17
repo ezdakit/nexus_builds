@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>SERIES DESTACADAS</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cHP%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.balandro%5cresources%5cmedia%5cchannels%5cthumb%5cinkapelis.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIk1vdmlkeSIsIAogICAgImNoYW5uZWwiOiAibW92aWR5IiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFVzZXJzXFxIUFxcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXGNoYW5uZWxzXFx0aHVtYlxcbW92aWR5LmpwZyIsIAogICAgInRpdGxlIjogIsOabHRpbWFzIHNlcmllcyIsIAogICAgInVybCI6ICJodHRwczovL21vdmlkeS5jby9zZXJpZXMiCn0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>CAPITULOS DE ESTRENO</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cHP%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.balandro%5cresources%5cmedia%5cchannels%5cthumb%5cseriespapaya.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJlc3RyZW5vcyIsIAogICAgImNhdGVnb3J5IjogIlNlcmllc1BhcGF5YSIsIAogICAgImNoYW5uZWwiOiAic2VyaWVzcGFwYXlhIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFVzZXJzXFxIUFxcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXGNoYW5uZWxzXFx0aHVtYlxcc2VyaWVzcGFwYXlhLnBuZyIsIAogICAgInRpdGxlIjogIkNhcMOtdHVsb3MgZGUgZXN0cmVubyBDYXN0ZWxsYW5vIiwgCiAgICAidXJsIjogImh0dHBzOi8vd3d3LnNlcmllc3BhcGF5YS5udS9lc3RyZW5vLXNlcmllLWNhc3RlbGxhbm8vIgp9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>SERIES NUEVAS</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fgithub.com%2fPalantiraddon%2fPalantir%2fraw%2fmaster%2fmedia%2fabstract%2fseries_recientes.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydvcmRlbic6IDIsICdjb250ZXh0TWVudSc6IFsodSdNYXJjYXIgY29tbyB2aXN0bycsICdYQk1DLlJ1blBsdWdpbihwbHVnaW46Ly9wbHVnaW4udmlkZW8ucGFsYW50aXIyLz9leWR6WldGemIyNWZhV1FuT2lBbkp5d2dKMk52Ym5SbGJuUW5PaUFuYlc5MmFXVnpKeXdnSjNSdFpHSW5PaUFuSnl3Z0oyVndhWE52WkdVbk9pQW5KeXdnSjJGamRHbHZiaWM2SUNkdmFXOHdUMDh3VDA5UFR5ZDkpJyldLCAnZmFuYXJ0JzogJ0M6XFxVc2Vyc1xcSFBcXEFwcERhdGFcXFJvYW1pbmdcXEtvZGlcXGFkZG9uc1xccGx1Z2luLnZpZGVvLnBhbGFudGlyMlxcZmFuYXJ0LmdpZicsICdsYWJlbCc6IHUnW0NPTE9SIGdvbGRdTnVldmFzIHNlcmllc1svQ09MT1JdJywgJ2NvbnRlbnQnOiAnbW92aWVzJywgJ3NxbCc6IHUiU2VsZWN0IG5vbWJyZSwgYW5ubywgc2lub3BzaXMsIGNhcmF0dWxhLHBvc3Rlciwgc2VyaWVfaWQsIGF1ZGlvLCB0bWRiLCBsaW5rLCBoYXNfY29udGVudFxyXHJcbmZyb20gc2VyaWVzIFxyXHJcbndoZXJlIGFjdGl2ZSA%2BIDAgYW5kIGNhdGVnb3J5IG5vdCBSRUdFWFAgJ0RvY3VtZW50YWx8TXVzaWNhfEFuaW1lfERpYnVqb3MnIFxyXHJcbm9yZGVyIGJ5IGFubm8gZGVzYywgdXBkYXRlZCBkZXNjIiwgJ2FjdGlvbic6IHUnaW9JMWkxSScsICdwYWdlJzogMCwgJ2ljb24nOiB1J2h0dHBzOi8vZ2l0aHViLmNvbS9QYWxhbnRpcmFkZG9uL1BhbGFudGlyL3Jhdy9tYXN0ZXIvbWVkaWEvYWJzdHJhY3Qvc2VyaWVzX3JlY2llbnRlcy5wbmcnfQ%3D%3D",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>SERIES POPULARES</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cHP%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.balandro%5cresources%5cmedia%5cchannels%5cthumb%5ccineonline.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0YWRvIiwgCiAgICAiY2F0ZWdvcnkiOiAiVE1EQiIsIAogICAgImNoYW5uZWwiOiAidG1kYmxpc3RzIiwgCiAgICAiZXh0cmEiOiAicG9wdWxhciIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAic2VhcmNoX3R5cGUiOiAidHZzaG93IiwgCiAgICAidGh1bWJuYWlsIjogIkM6XFxVc2Vyc1xcSFBcXEFwcERhdGFcXFJvYW1pbmdcXEtvZGlcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmJhbGFuZHJvXFxyZXNvdXJjZXNcXG1lZGlhXFx0aGVtZXNcXGRlZmF1bHRcXGJvb2tzaGVsZi5wbmciLCAKICAgICJ0aXRsZSI6ICJTZXJpZXMgbcOhcyBQb3B1bGFyZXMiCn0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>SERIES TORRENT</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cHP%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.balandro%5cresources%5cmedia%5cchannels%5cthumb%5cpctnew.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIk5ld1BjdDF%2BcGN0bmV3IiwgCiAgICAiY2hhbm5lbCI6ICJuZXdwY3QxIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJzZWFyY2hfdHlwZSI6ICJ0dnNob3ciLCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFVzZXJzXFxIUFxcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXGNoYW5uZWxzXFx0aHVtYlxccGN0bmV3LmpwZyIsIAogICAgInRpdGxlIjogIlNlcmllcyBIRCIsIAogICAgInVybCI6ICJodHRwczovL3BjdG1peC5jb20vc2VyaWVzLWhkLyIKfQ%3D%3D",return)</action>
+	</shortcut>
+</shortcuts>

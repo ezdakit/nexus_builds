@@ -1,0 +1,5 @@
+name="Instalar parche Winner"
+url="https://github.com/ezdakit/nexus_builds/raw/main/parche_3/parche_3.zip" 
+img="https://github.com/ezdakit/nexus_builds/raw/main/pj_alive.jpg"
+fanart="https://github.com/ezdakit/nexus_builds/raw/main/pj_alive.jpg"
+description="PARA ACTUALIZAR LOS MENUS DE SPORTS CON ACCESOS A WINNER"

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>ESTRENOS EN HD</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cHP%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.balandro%5cresources%5cmedia%5cchannels%5cthumb%5ccineonline.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIk1vdmlkeSIsIAogICAgImNoYW5uZWwiOiAibW92aWR5IiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFVzZXJzXFxIUFxcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXGNoYW5uZWxzXFx0aHVtYlxcbW92aWR5LmpwZyIsIAogICAgInRpdGxlIjogIkVzdHJlbm9zIiwgCiAgICAidXJsIjogImh0dHBzOi8vbW92aWR5LmNvL3BlbGljdWxhcy9lc3RyZW5vcyIKfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PELICULAS ALEATORIAS</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cHP%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.balandro%5cresources%5cmedia%5cchannels%5cthumb%5ccinetux.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIk1vdmlkeSIsIAogICAgImNoYW5uZWwiOiAibW92aWR5IiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFVzZXJzXFxIUFxcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXGNoYW5uZWxzXFx0aHVtYlxcbW92aWR5LmpwZyIsIAogICAgInRpdGxlIjogIkFjdHVhbGl6YWRhcyIsIAogICAgInVybCI6ICJodHRwczovL21vdmlkeS5jby9hY3R1YWxpemFkby9wZWxpY3VsYXMiCn0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PELICULAS NUEVAS</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fYhDMoqm.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydvcmRlbic6IDIsICdjb250ZXh0TWVudSc6IFsodSdNYXJjYXIgY29tbyB2aXN0bycsICdYQk1DLlJ1blBsdWdpbihwbHVnaW46Ly9wbHVnaW4udmlkZW8ucGFsYW50aXIyLz9leWR6WldGemIyNWZhV1FuT2lBbkp5d2dKMk52Ym5SbGJuUW5PaUFuYlc5MmFXVnpKeXdnSjNSdFpHSW5PaUFuSnl3Z0oyVndhWE52WkdVbk9pQW5KeXdnSjJGamRHbHZiaWM2SUNkdmFXOHdUMDh3VDA5UFR5ZDkpJyldLCAnZmFuYXJ0JzogJ0M6XFxVc2Vyc1xcSFBcXEFwcERhdGFcXFJvYW1pbmdcXEtvZGlcXGFkZG9uc1xccGx1Z2luLnZpZGVvLnBhbGFudGlyMlxcZmFuYXJ0LmdpZicsICdsYWJlbCc6IHUnW0NPTE9SIGdvbGRdTm92ZWRhZGVzWy9DT0xPUl0nLCAnY29udGVudCc6ICdtb3ZpZXMnLCAnc3FsJzogdSJTRUxFQ1Qgbm9tYnJlLCBhbm5vLCBzaW5vcHNpcywgY2FyYXR1bGEsIHBvc3RlciwgZ3JvdXBfaWQsIEdST1VQX0NPTkNBVCh0YWdzLCcjJyksdG1kYiBGUk9NIHBlbGlzIFdIRVJFIGFjdGl2ZSA%2BIDAgYW5kIGNhdGVnb3J5IG5vdCBSRUdFWFAgJ0RvY3VtZW50YWx8TXVzaWNhfEFuaW1lfERpYnVqb3MnIGFuZCBnZW5lcm8gbm90IGxpa2UgJ1R1dG9yaWFsZXMnIGdyb3VwIGJ5IGdyb3VwX2lkIG9yZGVyIGJ5IGFubm8gZGVzYywgdXBkYXRlZCBkZXNjIiwgJ2FjdGlvbic6IHUnb2lPME9vTycsICdwYWdlJzogMCwgJ2ljb24nOiB1J2h0dHBzOi8vZ2l0aHViLmNvbS9QYWxhbnRpcmFkZG9uL1BhbGFudGlyL3Jhdy9tYXN0ZXIvbWVkaWEvYWJzdHJhY3QvcGVsaXNfcmVjaWVudGVzLnBuZyd9",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PELICULAS POPULARES</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cHP%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.balandro%5cresources%5cmedia%5cchannels%5cthumb%5ccinecalidad.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0YWRvIiwgCiAgICAiY2F0ZWdvcnkiOiAiVE1EQiIsIAogICAgImNoYW5uZWwiOiAidG1kYmxpc3RzIiwgCiAgICAiZXh0cmEiOiAicG9wdWxhciIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAic2VhcmNoX3R5cGUiOiAibW92aWUiLCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFVzZXJzXFxIUFxcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXHRoZW1lc1xcZGVmYXVsdFxcYm9va3NoZWxmLnBuZyIsIAogICAgInRpdGxlIjogIlBlbMOtY3VsYXMgbcOhcyBQb3B1bGFyZXMiCn0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PELICULAS TORRENT</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cHP%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.balandro%5cresources%5cmedia%5cchannels%5cthumb%5cgrantorrent.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIk5ld1BjdDF%2BcGN0bmV3IiwgCiAgICAiY2hhbm5lbCI6ICJuZXdwY3QxIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJzZWFyY2hfdHlwZSI6ICJtb3ZpZSIsIAogICAgInRodW1ibmFpbCI6ICJDOlxcVXNlcnNcXEhQXFxBcHBEYXRhXFxSb2FtaW5nXFxLb2RpXFxhZGRvbnNcXHBsdWdpbi52aWRlby5iYWxhbmRyb1xccmVzb3VyY2VzXFxtZWRpYVxcY2hhbm5lbHNcXHRodW1iXFxwY3RuZXcuanBnIiwgCiAgICAidGl0bGUiOiAiUGVsw61jdWxhcyBlbiBDYXN0ZWxsYW5vIiwgCiAgICAidXJsIjogImh0dHBzOi8vcGN0bWl4LmNvbS9wZWxpY3VsYXMvIgp9",return)</action>
+	</shortcut>
+</shortcuts>

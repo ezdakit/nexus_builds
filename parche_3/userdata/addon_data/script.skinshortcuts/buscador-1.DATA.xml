@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>BUSCADORES BALANDRO</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cHP%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.balandro%5cresources%5cmedia%5cthemes%5cdefault%5cmagnifyingglass.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIkJhbGFuZHJvIiwgCiAgICAiY2hhbm5lbCI6ICJzZWFyY2giLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInRodW1ibmFpbCI6ICJDOlxcVXNlcnNcXEhQXFxBcHBEYXRhXFxSb2FtaW5nXFxLb2RpXFxhZGRvbnNcXHBsdWdpbi52aWRlby5iYWxhbmRyb1xccmVzb3VyY2VzXFxtZWRpYVxcdGhlbWVzXFxkZWZhdWx0XFxtYWduaWZ5aW5nZ2xhc3MucG5nIiwgCiAgICAidGl0bGUiOiAiQnVzY2FyIgp9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BUSCADORES CRISTAL AZUL</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2f2tS3oPI.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cristalazul/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCristalazul%2FCristalazul.io%2Fmain%2FSUBMENUS-WIZARD%2FBUSCADORES&amp;mode=1&amp;name=%5BCOLOR+gold%5D%2A%5B%2FCOLOR%5D+%5BCOLOR+lightsalmon%5DBUSCADORES+%5BCOLOR+white%5DCine+y+Series%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2Fi.imgur.com%2FRsLj1lh.jpg",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>1037</defaultID>
+		<label>ADDONS DE VIDEO</label>
+		<label2>Vídeos</label2>
+		<icon>special://skin/extras/icons/video-addons.png</icon>
+		<thumb />
+		<action>addons://sources/video/</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>programs</defaultID>
+		<label>ADDONS DE PROGRAMA</label>
+		<label2>Programas</label2>
+		<icon>special://skin/extras/icons/addons.png</icon>
+		<thumb />
+		<action>addons://sources/executable/</action>
+	</shortcut>
+</shortcuts>
