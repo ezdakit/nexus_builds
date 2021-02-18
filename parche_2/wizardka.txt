@@ -1,5 +1,5 @@
-name="BAT, BI, HIRU, BI ... INSTALAR PARCHE V02 (RASPBERRY)"
-url="https://github.com/ezdakit/nexus_builds/raw/main/parche_2/parche_2.zip" 
+name="Instalar Build ZukZeuk 1.0"
+url="https://github.com/ezdakit/ZukZeuk_data/releases/download/builds/build_zukzeuk_1-0.zip" 
 img="https://github.com/ezdakit/nexus_builds/raw/main/pj_alive.jpg"
 fanart="https://github.com/ezdakit/nexus_builds/raw/main/pj_alive.jpg"
-description="PARA ACTUALIZAR LOS MENUS Y LA CONFIG DE BALANDRO"
+description="Build ZukZeuk basada en skin arctic horizon (taox mod)"
